@@ -132,7 +132,7 @@
           <!-- PENDIDIKAN END -->
 
           <div class="tab-pane" id="jabfung" role="tabpanel">
-            <p class="m-0">jabatan fungsional</p>
+            <p class="m-0">jabatan fungsional galang</p>
           </div>
           <div class="tab-pane" id="jabstruk" role="tabpanel">
             <p class="m-0">jabatan struktural</p>

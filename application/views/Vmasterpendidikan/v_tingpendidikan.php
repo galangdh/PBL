@@ -5,7 +5,7 @@
   </div>
   <div class="card-block table-border-style">
     <a href="<?php echo base_url('Cmasterpendidikan/c_tingpendidikan/tambahTingPen'); ?>" class="waves-effect waves-dark">
-      <span><i class="fa-solid fa-user-plus"></i> Tambah Tingkat Pendidikan</span>
+      <span class="btn btn-primary sidebar-edit"><i class="fa-solid fa-user-plus"></i> Tambah Tingkat Pendidikan</span>
     </a>
     <div class="table-responsive">
       <table class="table table-bordered">

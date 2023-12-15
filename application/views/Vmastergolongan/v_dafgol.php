@@ -5,7 +5,7 @@
   </div>
   <div class="card-block table-border-style">
     <a href="<?php echo base_url('Cmastergolongan/c_dafgol/tambahDafgol'); ?>" class="waves-effect waves-dark">
-      <span><i class="fa-solid fa-user-plus"></i> Tambah Data Golongan</span>
+      <span class="btn btn-primary sidebar-edit"><i class="fa-solid fa-user-plus"></i> Tambah Data Golongan</span>
     </a>
     <div class="table-responsive">
       <table class="table table-bordered">

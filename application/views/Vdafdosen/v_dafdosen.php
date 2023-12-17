@@ -7,6 +7,15 @@
     <a href="<?php echo base_url('Cdafdosen/c_dafdosen/tambahDosen'); ?>" class="waves-effect waves-dark">
       <span><button class="btn btn-primary sidebar-edit"><i class="fa-solid fa-user-plus"></i> Tambah Data Dosen</button></span>
     </a>
+		  <div class="col-md-6">
+      <form action="<?php echo base_url('Cdafdosen/c_dafdosen/pencarian'); ?>" method="post">
+        <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="cari nama atau nomor pegawai" name="keyword" autocomplete="off" autofocus>
+        <input class="btn btn-primary" type="submit" name="submit">
+        </div>
+      </form>
+    </div>
+  </div>
     <div class="table-responsive">
       <table class="table table-bordered">
         <thead>
